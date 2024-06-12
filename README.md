@@ -1,0 +1,1 @@
+# Northwind_Siparis_Analizi_SQL
